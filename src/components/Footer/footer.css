@@ -1,0 +1,11 @@
+.footer {
+  height: 100px;
+  border: 2px solid blue;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer-inner {
+  flex-basis: 400px;
+  border: 2px solid red;
+}

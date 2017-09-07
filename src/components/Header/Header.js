@@ -1,10 +1,13 @@
 import React, { Component } from 'react'
+import './header.css'
 
 class Header extends Component {
   render () {
     return (
       <div className='header'>
-        Header
+        <div className='header-inner'>
+          Header
+        </div>
       </div>
     )
   }

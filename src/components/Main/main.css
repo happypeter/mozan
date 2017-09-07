@@ -1,0 +1,11 @@
+.main {
+  background-color: yellow;
+  display: flex;
+  justify-content: space-around;
+}
+
+.main-page-wrap {
+  width: 400px;
+  min-height: 30vh;
+  border: 2px solid teal;
+}
